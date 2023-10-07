@@ -23,5 +23,23 @@ In this module the user can cancel their name which is registered for the Book.
 Star UML
 ### UML Diagrams:
 
+## Activity diagram
+
+![Screenshot 2023-10-07 170532](https://github.com/Hemasonica774/Library-Management/assets/118361409/58db0de6-05dc-484f-b63c-c1487abd8fae)
+
+## Sequence diagram
+
+![Screenshot 2023-10-07 170631](https://github.com/Hemasonica774/Library-Management/assets/118361409/c63f0576-7acc-4a65-a20f-4165f4a47bbf)
+
+## Class diagram
+
+![Screenshot 2023-10-07 170505](https://github.com/Hemasonica774/Library-Management/assets/118361409/92a82b7d-a639-481e-a3ba-a71702b96ccb)
+
+## Communication diagram
+
+![Screenshot 2023-10-07 170548](https://github.com/Hemasonica774/Library-Management/assets/118361409/0e3cae0c-a475-41ca-bf3c-3e29dda6fb2c)
+
+
+
 ### RESULT:
 Thus the Library management system project was executed and the output was verified.
