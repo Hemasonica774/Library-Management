@@ -25,7 +25,8 @@ Star UML
 
 ## Activity diagram
 
-![Screenshot 2023-10-07 170532](https://github.com/Hemasonica774/Library-Management/assets/118361409/58db0de6-05dc-484f-b63c-c1487abd8fae)
+![Screenshot 2023-10-07 172615](https://github.com/Hemasonica774/Library-Management/assets/118361409/79e42f2a-40f6-4fb7-bf2e-5850130d3384)
+
 
 ## Sequence diagram
 
